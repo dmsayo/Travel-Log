@@ -1,0 +1,17 @@
+{
+    "name": "My visited locations",
+    "visited locations": [
+        {
+            "rating": 3,
+            "location name": "test1",
+            "description": "test description",
+            "date travelled": 1
+        },
+        {
+            "rating": 5,
+            "location name": "test2",
+            "description": "test description",
+            "date travelled": 2
+        }
+    ]
+}
